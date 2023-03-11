@@ -1,4 +1,4 @@
-### Hi guys!😎
+### Hi, guys!😎
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-Nikita&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-Nikita" /> </p>
 
