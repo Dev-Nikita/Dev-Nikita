@@ -14,6 +14,9 @@ I'm Cloud Native Software Engineer(Backend Developer). I work for the best Swiss
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="https://azure.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
+<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
+<code><a href="https://www.linuxfoundation.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-ar21.svg"></a></code>
+<code><a href="https://www.hashicorp.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-ar21.svg"></a></code>
 <code><a href="https://docs.microsoft.com/tr-tr/dotnet/welcome" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code><a href="https://tr.wordpress.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
