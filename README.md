@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-Nikita&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-Nikita" /> </p>
 
-I'm Cloud Native Software Engineer(Backend Developer). I'm a student in PhD, Information System and Technology.  I studying software development in the field of additive technologies and 3D modeling for people with disabilities. The main programming language is Golang. I have 3 years experience in different companies. I strive to develop further in the direction of IT development. I study different technologies, I am interested in telecommunications(SMS6 etc..), cybersecurity tools for containers and cloud infrastructure.
+I'm Cloud Native Software Engineer(Backend Developer). I'm a student in PhD, Information System and Technology.  I studying software development in the field of additive technologies and 3D modeling for people with disabilities. The main programming language is Golang. I have 3 years experience in different companies. I strive to develop further in the direction of IT development. I study different technologies, I am interested in telecommunications(SMS, etc..), cybersecurity tools for containers and cloud infrastructure.
 
 ![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Nikita&show_icons=true)
 
