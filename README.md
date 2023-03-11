@@ -7,7 +7,7 @@ I'm Cloud Native Software Engineer(Backend Developer). I work for the best Swiss
 ![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Nikita&show_icons=true)
 
 
-### Learning | Using 🧠
+### Technology stack
 
 <code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
@@ -18,7 +18,7 @@ I'm Cloud Native Software Engineer(Backend Developer). I work for the best Swiss
 <code><a href="https://tr.wordpress.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
-## Contact Me 📫
+## Contact Info
 
 [![Linkedin Badge](https://img.shields.io/badge/https%3A%2F%2F-www.linkedin.com%2Fin%2Fnikita--t--788846197%2F-blue)](https://www.linkedin.com/in/nikita-t-788846197/)
 
