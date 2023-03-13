@@ -24,5 +24,5 @@ I'm Cloud Native Software Engineer(Backend Developer). I'm a student in PhD, Inf
 
 ## Contact Info ☎️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/nikita-t-788846197/)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMrNikitaN)](https://twitter.com/MrNikitaN/)
+[![Twitter](https://img.shields.io/twitter/url?logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FMrNikitaN)](https://twitter.com/MrNikitaN/)
 
