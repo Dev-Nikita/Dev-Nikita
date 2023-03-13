@@ -23,5 +23,5 @@ I'm Cloud Native Software Engineer(Backend Developer). I'm a student in PhD, Inf
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 ## Contact Info ☎️
-[![Linkedin Badge](https://img.shields.io/badge/https%3A%2F%2F-www.linkedin.com%2Fin%2Fnikita--t--788846197%2F-blue)](https://www.linkedin.com/in/nikita-t-788846197/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/nikita-t-788846197/)
 
