@@ -1,8 +1,8 @@
-### Hi, guys!😎
+### Hi, folks!🇺🇸😎🇺🇸
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-Nikita&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-Nikita" /> </p>
 
-I'm Cloud Native Software Engineer(Backend Developer). I'm a student in PhD, Information System and Technology.  I studying software development in the field of additive technologies and 3D modeling for people with disabilities. The main programming language is Golang. I have 3 years experience in different companies. I strive to develop further in the direction of IT development. I study different technologies, I am interested in telecommunications technology, technology transfer data, WiFi, Network 2G-3G-4G-5G and calling technologies, SCCP, SMS, GSM, eBPF, cybersecurity, tools for instrument containers, cloud infrastructure(AWS, Azure, IBM), system monitoring services.
+I'm a Cloud Native Software Engineer(Backend Developer). I'm a student in PhD, Information Systems and Technology.  I am studying software development in additive technologies and 3D modeling for people with disabilities. The main programming language is Golang. I have 3 years of experience in different companies. I strive to develop further in the direction of IT development. I study different technologies, I am interested in telecommunications technology, technology transfer data, WiFi, Network 2G-3G-4G-5G and calling technologies, SCCP, SMS, GSM, eBPF, cybersecurity, tools for instrument containers, cloud infrastructure(AWS, Azure, IBM), system monitoring services.
 
 ![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Nikita&show_icons=true)
 
