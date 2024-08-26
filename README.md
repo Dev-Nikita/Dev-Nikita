@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-Nikita&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-Nikita" /> </p>
 
-I'm a Software Engineer(Backend Developer). I have a Ph.D. in information systems and technology. The main programming language is Golang. I have 4 years of experience in different companies. I strive to develop further in the direction of IT development. I study different technologies, I am interested in telecommunications technology, technology transfer data, WiFi, Network 2G-3G-4G-5G and calling technologies, SCCP, SMS, GSM, eBPF, cybersecurity, tools for instrument containers, cloud infrastructure(AWS, Azure, IBM), system monitoring services.
+I'm a Software Engineer(Backend Developer). I have a Ph.D. in information systems and technology. The main programming language is Golang. I have 4 years of experience in different companies. I strive to develop further in the direction of IT development. I study different technologies, I am interested in telecommunications technology, technology transfer data, WiFi, Network 2G-6G and calling technologies, SCCP, SMS, GSM, eBPF, cybersecurity, tools for instrument containers, cloud infrastructure(AWS, Azure, IBM), system monitoring services.
 
 ![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Nikita&show_icons=true)
 
